@@ -1,0 +1,71 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"VheicleDataSender/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "VheicleDataSender_autogen_timestamp_deps::@c77db069abf08bc9109c"
+		}
+	],
+	"id" : "VheicleDataSender_autogen::@c77db069abf08bc9109c",
+	"isGeneratorProvided" : true,
+	"name" : "VheicleDataSender_autogen",
+	"paths" : 
+	{
+		"build" : "VheicleDataSender",
+		"source" : "VheicleDataSender"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-DashBord-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/VheicleDataSender/CMakeFiles/VheicleDataSender_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-DashBord-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/VheicleDataSender/CMakeFiles/VheicleDataSender_autogen.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-DashBord-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/VheicleDataSender/VheicleDataSender_autogen/timestamp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

@@ -1,0 +1,9 @@
+-rootPath
+C:/Users/admin/Downloads/CarDashbordDisp-main (1)/CarDashbordDisp-main/DashBord_Digital
+-cmake-output
+-output-file
+C:/Users/admin/Downloads/CarDashbordDisp-main (1)/CarDashbordDisp-main/DashBord_Digital/build-DashBord-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_DashBord_Digital.cmake
+-importPath
+C:/Users/admin/Downloads/CarDashbordDisp-main (1)/CarDashbordDisp-main/DashBord_Digital/build-DashBord-Desktop_Qt_6_4_0_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.4.0/mingw_64/./qml

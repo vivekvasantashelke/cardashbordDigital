@@ -1,0 +1,71 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"DatatetKM/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "DatatetKM_autogen_timestamp_deps::@ff0a0dd9d9a23699f3a7"
+		}
+	],
+	"id" : "DatatetKM_autogen::@ff0a0dd9d9a23699f3a7",
+	"isGeneratorProvided" : true,
+	"name" : "DatatetKM_autogen",
+	"paths" : 
+	{
+		"build" : "DatatetKM",
+		"source" : "DatatetKM"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-DashBord-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/DatatetKM/CMakeFiles/DatatetKM_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-DashBord-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/DatatetKM/CMakeFiles/DatatetKM_autogen.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-DashBord-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/DatatetKM/DatatetKM_autogen/timestamp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

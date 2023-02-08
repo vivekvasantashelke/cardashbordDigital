@@ -1,0 +1,103 @@
+# ninja log v5
+11	1812	6974728500224617	build.ninja	8f9d6931d9fc79d6
+3	170	6967765482060563	.qt_plugins/Qt6_QmlPlugins_Imports_DashBord_Digital.cmake	f1d899c746bd79b6
+13	233	6975379712933036	DatatetKM/DatatetKM_autogen/mocs_compilation.cpp	ec2bb144ed37c990
+754	42651	6968754936854823	VheicleDataSender/VheicleDataSender_autogen/mocs_compilation.cpp	b8551fc53041ff20
+2495	2693	6973890041610998	user/libuser.dll	df3c34250d727505
+13	230	6975380085688851	C:/Users/admin/Downloads/CarDashbordDisp-main (1)/CarDashbordDisp-main/DashBord_Digital/build-DashBord-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/DashBord_Digital_autogen/mocs_compilation.cpp	3d8f04543aa2e760
+13	230	6975380085688851	DashBord_Digital_autogen/timestamp	3d8f04543aa2e760
+3	170	6967765482060563	C:/Users/admin/Downloads/CarDashbordDisp-main (1)/CarDashbordDisp-main/DashBord_Digital/build-DashBord-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_DashBord_Digital.cmake	f1d899c746bd79b6
+11	1418	6968755731798010	VheicleDataSender/CMakeFiles/VheicleDataSender.dir/VheicleDataSender_autogen/mocs_compilation.cpp.obj	4905348463a902ce
+754	42651	6968754936854823	VheicleDataSender/VheicleDataSender_autogen/timestamp	b8551fc53041ff20
+14166	14532	6975381095699279	DashBord_Digital.exe	c2ecf403c10c560b
+42678	84874	6968755385816489	VheicleDataSender/CMakeFiles/VheicleDataSender.dir/VheicleDataSender.cpp.obj	e12c5f61dc905697
+2029	2325	6975379733671461	DatatetKM/libDatatetKM.dll	c0faa1d110135e1a
+754	42651	6968754936854823	C:/Users/admin/Downloads/CarDashbordDisp-main (1)/CarDashbordDisp-main/DashBord_Digital/build-DashBord-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/VheicleDataSender/VheicleDataSender_autogen/mocs_compilation.cpp	b8551fc53041ff20
+754	42651	6968754936854823	C:/Users/admin/Downloads/CarDashbordDisp-main (1)/CarDashbordDisp-main/DashBord_Digital/build-DashBord-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/VheicleDataSender/VheicleDataSender_autogen/timestamp	b8551fc53041ff20
+13	230	6975380085688851	C:/Users/admin/Downloads/CarDashbordDisp-main (1)/CarDashbordDisp-main/DashBord_Digital/build-DashBord-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/DashBord_Digital_autogen/timestamp	3d8f04543aa2e760
+1419	1680	6968755734387157	VheicleDataSender/libVheicleDataSender.dll	d54b4b75368d43b2
+1419	1680	6968755734387157	VheicleDataSender/libVheicleDataSender.dll.a	d54b4b75368d43b2
+13	230	6975380085688851	DashBord_Digital_autogen/mocs_compilation.cpp	3d8f04543aa2e760
+327	402	6973684622995287	CMakeFiles/DashBord_Digital.dir/DashBord_Digital_autogen/mocs_compilation.cpp.obj	170e7e670d86ed49
+12	432	6975380954716289	DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp	14f8e2d393739bc4
+12	432	6975380954716289	C:/Users/admin/Downloads/CarDashbordDisp-main (1)/CarDashbordDisp-main/DashBord_Digital/build-DashBord-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp	14f8e2d393739bc4
+432	14165	6975381091979281	CMakeFiles/DashBord_Digital.dir/DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp.obj	3b6fc19c175114b5
+254	1981	6975380103197371	CMakeFiles/DashBord_Digital.dir/main.cpp.obj	ca19bf99d72e2d4e
+13	233	6975379712933036	DatatetKM/DatatetKM_autogen/timestamp	ec2bb144ed37c990
+13	233	6975379712933036	C:/Users/admin/Downloads/CarDashbordDisp-main (1)/CarDashbordDisp-main/DashBord_Digital/build-DashBord-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/DatatetKM/DatatetKM_autogen/timestamp	ec2bb144ed37c990
+13	233	6975379712933036	C:/Users/admin/Downloads/CarDashbordDisp-main (1)/CarDashbordDisp-main/DashBord_Digital/build-DashBord-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/DatatetKM/DatatetKM_autogen/mocs_compilation.cpp	ec2bb144ed37c990
+1070	2951	6973873974658129	user/CMakeFiles/user.dir/user_autogen/mocs_compilation.cpp.obj	8e2c6510b67b022e
+859	2531	6974749857438427	DatatetKM/CMakeFiles/DatatetKM.dir/DatatetKM_autogen/mocs_compilation.cpp.obj	d1a1ad91707e5974
+246	2029	6975379730745743	DatatetKM/CMakeFiles/DatatetKM.dir/dataEkm.cpp.obj	61cd58611f45c34a
+2029	2325	6975379733671461	DatatetKM/libDatatetKM.dll.a	c0faa1d110135e1a
+26	331	6973890017881958	user/user_autogen/timestamp	5f9fcbab1e50a97
+26	331	6973890017881958	C:/Users/admin/Downloads/CarDashbordDisp-main (1)/CarDashbordDisp-main/DashBord_Digital/build-DashBord-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/user/user_autogen/mocs_compilation.cpp	5f9fcbab1e50a97
+26	331	6973890017881958	user/user_autogen/mocs_compilation.cpp	5f9fcbab1e50a97
+26	331	6973890017881958	C:/Users/admin/Downloads/CarDashbordDisp-main (1)/CarDashbordDisp-main/DashBord_Digital/build-DashBord-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/user/user_autogen/timestamp	5f9fcbab1e50a97
+343	2494	6973890039604616	user/CMakeFiles/user.dir/userD.cpp.obj	403befe6a1f268d2
+2495	2693	6973890041610998	user/libuser.dll.a	df3c34250d727505
+9	432	6975382258034334	DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp	14f8e2d393739bc4
+9	432	6975382258034334	C:/Users/admin/Downloads/CarDashbordDisp-main (1)/CarDashbordDisp-main/DashBord_Digital/build-DashBord-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp	14f8e2d393739bc4
+432	14210	6975382395698377	CMakeFiles/DashBord_Digital.dir/DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp.obj	3b6fc19c175114b5
+14212	14650	6975382400202205	DashBord_Digital.exe	c2ecf403c10c560b
+1190	16713	6975389952647693	DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp	14f8e2d393739bc4
+1190	16713	6975389952647693	C:/Users/admin/Downloads/CarDashbordDisp-main (1)/CarDashbordDisp-main/DashBord_Digital/build-DashBord-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp	14f8e2d393739bc4
+16722	240341	6975392191613342	CMakeFiles/DashBord_Digital.dir/DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp.obj	3b6fc19c175114b5
+240345	241013	6975392198473327	DashBord_Digital.exe	c2ecf403c10c560b
+12	580	6975393716279078	DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp	14f8e2d393739bc4
+12	580	6975393716279078	C:/Users/admin/Downloads/CarDashbordDisp-main (1)/CarDashbordDisp-main/DashBord_Digital/build-DashBord-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp	14f8e2d393739bc4
+581	16598	6975393876419021	CMakeFiles/DashBord_Digital.dir/DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp.obj	3b6fc19c175114b5
+16600	16976	6975393880249042	DashBord_Digital.exe	c2ecf403c10c560b
+9	474	6975395774079632	DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp	14f8e2d393739bc4
+9	474	6975395774079632	C:/Users/admin/Downloads/CarDashbordDisp-main (1)/CarDashbordDisp-main/DashBord_Digital/build-DashBord-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp	14f8e2d393739bc4
+475	15006	6975395919372363	CMakeFiles/DashBord_Digital.dir/DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp.obj	3b6fc19c175114b5
+15007	15356	6975395922922368	DashBord_Digital.exe	c2ecf403c10c560b
+8	446	6975398369170537	DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp	14f8e2d393739bc4
+8	446	6975398369170537	C:/Users/admin/Downloads/CarDashbordDisp-main (1)/CarDashbordDisp-main/DashBord_Digital/build-DashBord-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp	14f8e2d393739bc4
+447	14096	6975398505520509	CMakeFiles/DashBord_Digital.dir/DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp.obj	3b6fc19c175114b5
+14097	14521	6975398509902952	DashBord_Digital.exe	c2ecf403c10c560b
+8	450	6975401763418979	DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp	14f8e2d393739bc4
+8	450	6975401763418979	C:/Users/admin/Downloads/CarDashbordDisp-main (1)/CarDashbordDisp-main/DashBord_Digital/build-DashBord-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp	14f8e2d393739bc4
+451	14224	6975401900997944	CMakeFiles/DashBord_Digital.dir/DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp.obj	3b6fc19c175114b5
+14225	14626	6975401905187944	DashBord_Digital.exe	c2ecf403c10c560b
+8	458	6975402517158795	DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp	14f8e2d393739bc4
+8	458	6975402517158795	C:/Users/admin/Downloads/CarDashbordDisp-main (1)/CarDashbordDisp-main/DashBord_Digital/build-DashBord-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp	14f8e2d393739bc4
+459	14126	6975402653824033	CMakeFiles/DashBord_Digital.dir/DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp.obj	3b6fc19c175114b5
+14127	14536	6975402657988229	DashBord_Digital.exe	c2ecf403c10c560b
+9	423	6975403464616460	DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp	14f8e2d393739bc4
+9	423	6975403464616460	C:/Users/admin/Downloads/CarDashbordDisp-main (1)/CarDashbordDisp-main/DashBord_Digital/build-DashBord-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp	14f8e2d393739bc4
+423	14489	6975403605237754	CMakeFiles/DashBord_Digital.dir/DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp.obj	3b6fc19c175114b5
+14490	14898	6975403609397761	DashBord_Digital.exe	c2ecf403c10c560b
+8	435	6975405413586856	DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp	14f8e2d393739bc4
+8	435	6975405413586856	C:/Users/admin/Downloads/CarDashbordDisp-main (1)/CarDashbordDisp-main/DashBord_Digital/build-DashBord-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp	14f8e2d393739bc4
+436	14160	6975405550679612	CMakeFiles/DashBord_Digital.dir/DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp.obj	3b6fc19c175114b5
+14161	14524	6975405554469649	DashBord_Digital.exe	c2ecf403c10c560b
+7	429	6975406200775296	DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp	14f8e2d393739bc4
+7	429	6975406200775296	C:/Users/admin/Downloads/CarDashbordDisp-main (1)/CarDashbordDisp-main/DashBord_Digital/build-DashBord-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp	14f8e2d393739bc4
+430	14093	6975406337367648	CMakeFiles/DashBord_Digital.dir/DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp.obj	3b6fc19c175114b5
+14095	14489	6975406341366072	DashBord_Digital.exe	c2ecf403c10c560b
+8	454	6975406899585798	DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp	14f8e2d393739bc4
+8	454	6975406899585798	C:/Users/admin/Downloads/CarDashbordDisp-main (1)/CarDashbordDisp-main/DashBord_Digital/build-DashBord-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp	14f8e2d393739bc4
+455	14115	6975407036038324	CMakeFiles/DashBord_Digital.dir/DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp.obj	3b6fc19c175114b5
+14117	14511	6975407040169100	DashBord_Digital.exe	c2ecf403c10c560b
+11	436	6975407486976574	DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp	14f8e2d393739bc4
+11	436	6975407486976574	C:/Users/admin/Downloads/CarDashbordDisp-main (1)/CarDashbordDisp-main/DashBord_Digital/build-DashBord-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp	14f8e2d393739bc4
+436	14061	6975407623059463	CMakeFiles/DashBord_Digital.dir/DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp.obj	3b6fc19c175114b5
+14063	14486	6975407627469484	DashBord_Digital.exe	c2ecf403c10c560b
+8	428	6975408820066880	DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp	14f8e2d393739bc4
+8	428	6975408820066880	C:/Users/admin/Downloads/CarDashbordDisp-main (1)/CarDashbordDisp-main/DashBord_Digital/build-DashBord-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp	14f8e2d393739bc4
+429	14067	6975408956329145	CMakeFiles/DashBord_Digital.dir/DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp.obj	3b6fc19c175114b5
+14068	14441	6975408960267095	DashBord_Digital.exe	c2ecf403c10c560b
+8	446	6975409170848778	DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp	14f8e2d393739bc4
+8	446	6975409170848778	C:/Users/admin/Downloads/CarDashbordDisp-main (1)/CarDashbordDisp-main/DashBord_Digital/build-DashBord-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp	14f8e2d393739bc4
+447	14211	6975409308318783	CMakeFiles/DashBord_Digital.dir/DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp.obj	3b6fc19c175114b5
+14213	14664	6975409313040050	DashBord_Digital.exe	c2ecf403c10c560b
+13	222	6975410626389748	DashBord_Digital_autogen/timestamp	3d8f04543aa2e760
+13	222	6975410626389748	DashBord_Digital_autogen/mocs_compilation.cpp	3d8f04543aa2e760
+13	222	6975410626389748	C:/Users/admin/Downloads/CarDashbordDisp-main (1)/CarDashbordDisp-main/DashBord_Digital/build-DashBord-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/DashBord_Digital_autogen/timestamp	3d8f04543aa2e760
+13	222	6975410626389748	C:/Users/admin/Downloads/CarDashbordDisp-main (1)/CarDashbordDisp-main/DashBord_Digital/build-DashBord-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/DashBord_Digital_autogen/mocs_compilation.cpp	3d8f04543aa2e760
+251	702	6975410631079732	DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp	14f8e2d393739bc4
+251	702	6975410631079732	C:/Users/admin/Downloads/CarDashbordDisp-main (1)/CarDashbordDisp-main/DashBord_Digital/build-DashBord-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp	14f8e2d393739bc4
+707	2482	6975410648939723	CMakeFiles/DashBord_Digital.dir/main.cpp.obj	ca19bf99d72e2d4e
+702	14657	6975410770580675	CMakeFiles/DashBord_Digital.dir/DashBord_Digital_autogen/EWIEGA46WW/qrc_qml.cpp.obj	3b6fc19c175114b5
+14658	15082	6975410774916907	DashBord_Digital.exe	c2ecf403c10c560b
